@@ -1,0 +1,13 @@
+**/node_modules
+**/.git
+**/.gitignore
+**/nodemon.json
+**/npm-debug.log
+**/coverage
+**/.prettierrc
+**/LICENSE
+**/VERSION
+**/README.md
+**/Changelog.md
+docker-compose.yml
+pod.yaml
